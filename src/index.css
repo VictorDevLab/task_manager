@@ -213,6 +213,11 @@ input[type="checkbox"] {
     height: auto;
     position: relative;
     margin-bottom: 20px;
+
+  }
+
+  .app {
+    padding: 25px;
   }
 
   .sidebar a {
