@@ -75,7 +75,7 @@ body {
 
 .stats_bar div {
   height: 8px;
-  width: 50%;
+  width: 0%;
   background-color: #2198ff;
   border-radius: 12px;
 }
@@ -217,6 +217,19 @@ input[type="checkbox"] {
 
   .sidebar a {
     float: left;
+  }
+
+  .stats {
+    margin-left: 0;
+
+  }
+
+  .completed {
+    width: 100%;
+  }
+
+  .stats_bar {
+    width: 100%;
   }
 
   div.content {
